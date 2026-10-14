@@ -70,7 +70,7 @@ The `.bbmk` encrypted backup format lets you safely take your bookmark library o
 
 ## Download & Support
 
-- **Download**: (link pending)
+- **Download**: [0.14.1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.1)
 - **Donate**: [ko-fi@brick9527](https://ko-fi.com/brick9527)
 
 ## About the Author

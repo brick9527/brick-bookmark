@@ -70,7 +70,7 @@
 
 ## 获取与支持
 
-- **下载**：（待补充链接）
+- **下载**：[0.14.1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.1)
 - **捐赠**：[ko-fi@brick9527](https://ko-fi.com/brick9527)
 
 ## 关于作者
