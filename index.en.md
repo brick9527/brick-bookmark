@@ -8,7 +8,7 @@ English · [简体中文](index.md)
 
 ## Meet BrickBookmark in One Line
 
-**BrickBookmark** is a bookmark manager that **works the moment you install it — no registration, no login required**. A sidebar gives you one-click access to your frequently used bookmarks, while the full management page handles folders, tags, batch organization, and "bookmark health maintenance". Optionally connect a self-hosted server to unlock account and feedback features. Supports Chrome / Edge and other Chromium-based browsers.
+**BrickBookmark** is a bookmark manager that **works the moment you install it — no registration, no login required**. A sidebar gives you one-click access to your frequently used bookmarks, while the full management page handles folders, tags, batch organization, and "bookmark health maintenance". Optionally connect a self-hosted server to unlock account and feedback features. Supports Chrome / Edge / Firefox and other major browsers.
 
 ## Why BrickBookmark
 
@@ -64,9 +64,11 @@ The `.bbmk` encrypted backup format lets you safely take your bookmark library o
 ## Security & Privacy
 
 - **Local by default**: core features collect, store, or upload no personal data; no ads, analytics, or tracking components
-- **Minimal permissions**: only the permissions strictly required (bookmarks, storage, side panel, tabs, favicon, alarms)
-- **Optional server features**: account login and feedback require explicit opt-in, fully encrypted over HTTPS; nothing is transmitted unless you use them
+- **Minimal permissions**: only the permissions strictly required (bookmarks, storage, side panel, tabs, favicon, alarms, and host access — used solely for user-triggered link checking and title refresh)
+- **Optional server features**: account login and feedback require explicit opt-in, fully encrypted over HTTPS; the server is hosted in Hong Kong, China, so enabling these features involves cross-border data transfer. When not in use, no personal data is transmitted (the management page does auto-fetch product announcements, which contain no personal data)
+- **Predictable network behavior**: apart from the above, network requests are only sent to the sites you choose when you actively run link checking or title refresh
 - **Uninstall = erase**: all local data is deleted when the extension is removed
+- **Privacy policy**: full disclosure in the [privacy policy (v0.14.1.3)](privacy/V0.14.1.3/Chrome/PRIVACY.en.md), with [Edge](privacy/V0.14.1.3/Edge/PRIVACY.en.md) and [Firefox](privacy/V0.14.1.3/Firefox/PRIVACY.en.md) versions, plus [permission usage notes](privacy/V0.14.1.3/info/Permission-Usage.en.md)
 
 ## Download & Support
 
