@@ -68,7 +68,7 @@
 - **可选服务器功能**：账号登录与问题反馈需用户主动启用，全程 HTTPS 加密；服务器部署于中国香港地区，启用时相关数据将跨境传输。不使用服务器功能时不传输任何个人数据（管理页加载时会自动向服务器拉取产品公告，不含个人数据）
 - **可预期的网络行为**：除上述场景外，仅在你主动使用链接校验 / 标题刷新时，才会向指定目标网站发送请求
 - **卸载即清除**：本地数据随扩展卸载全部删除
-- **隐私政策**：完整披露见 [隐私政策（v0.14.1.3）](privacy/V0.14.1.3/Chrome/PRIVACY.md)，另含 [Edge 版](privacy/V0.14.1.3/Edge/PRIVACY.md)、[Firefox 版](privacy/V0.14.1.3/Firefox/PRIVACY.md) 及 [权限用途说明](privacy/V0.14.1.3/info/权限用途说明.md)
+- **隐私政策**：完整披露见 [隐私政策（Chrome版）](privacy/V0.14.1.3/Chrome/PRIVACY.md)，另含 [Edge 版](privacy/V0.14.1.3/Edge/PRIVACY.md)、[Firefox 版](privacy/V0.14.1.3/Firefox/PRIVACY.md) 。
 
 ## 获取与支持
 
