@@ -1,0 +1,10 @@
+# BrickBookmark 站点配置
+title: BrickBookmark
+description: 一个精致、高效、不打扰的浏览器书签管理器
+
+# 所有页面默认使用 default 布局
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
